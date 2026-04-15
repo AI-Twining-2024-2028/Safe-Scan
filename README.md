@@ -17,7 +17,7 @@ An AI-powered multilingual hate comment detector with an interactive garden visu
 4. Start planting comments and watch the garden grow!
 
 ## 📁 Project Structure
-safe-scan-detox-garden/
+Safe Scan/
 ├── index.html
 ├── css/
 │   └── style.css
