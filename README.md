@@ -17,3 +17,18 @@ An AI-powered multilingual hate comment detector with an interactive garden visu
 4. Start planting comments and watch the garden grow!
 
 ## 📁 Project Structure
+safe-scan-detox-garden/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   ├── main.js
+│   ├── classifier.js
+│   ├── garden.js
+│   └── auth.js
+├── assets/
+│   ├── login-screen.png     
+│   ├── english-det.png      
+│   ├── bhojpuri-det.png     
+│   └── analysis-view.png    
+└── README.md
